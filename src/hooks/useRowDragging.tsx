@@ -31,7 +31,7 @@ const useRowDragging = (rows, setRows, callback) => {
 
   const handleDrop = (e) => {
     e.preventDefault();
-    callback(dragRef.current.updatedRows, dragRef.current.params);
+    callback && callback(dragRef.current.updatedRows, dragRef.current.params);
     dragRef.current = {};
   };
 
