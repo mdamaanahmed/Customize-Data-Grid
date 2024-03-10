@@ -1,6 +1,6 @@
 {
   "name": "customize-data-grid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For Public Use",
   "type": "module",
   "main": "dist/index.js",
