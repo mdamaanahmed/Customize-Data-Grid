@@ -11,6 +11,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdamaanahmed/Customize-Data-Grid.git"
+  },
   "devDependencies": {
     "@mui/icons-material": "^5.15.12",
     "@mui/material": "^5.15.12",
