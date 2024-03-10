@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@mui/icons-material": "^5.15.12",
     "@mui/material": "^5.15.12",
