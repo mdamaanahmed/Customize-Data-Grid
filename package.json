@@ -1,20 +1,30 @@
 {
   "name": "customize-data-grid",
-  "version": "1.0.4",
-  "description": "For Public Use",
+  "version": "1.0.5",
+  "description": "Quickly Create Drag And Drop Tables With The Power Of Material UI Data Grid Table",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Amaan Ansari",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/mdamaanahmed/Customize-Data-Grid.git"
   },
+  "keywords": [
+    "react",
+    "mui",
+    "datagrid",
+    "data-grid",
+    "drag",
+    "drag-and-drop",
+    "table",
+    "customize",
+    "custom-table"
+  ],
   "devDependencies": {
     "@mui/icons-material": "^5.15.12",
     "@mui/material": "^5.15.12",
